@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
     cout << "Darshik" << endl << "Ladhe" << endl;
-    int  a;
+    int  a=5;
+    cout << a;
     return 0;
 }
