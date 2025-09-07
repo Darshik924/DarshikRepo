@@ -1,2 +1,5 @@
 # Repository 
-This is my Repository.
+
+Hello World.
+This is my first Repository. I am new to learning coding.
+
